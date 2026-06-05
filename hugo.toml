@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Apricot Retail Growth"
+theme = "custom"
+
+[params]
+  description = "Growth strategies for retail shops: foot traffic, loyalty programs, local SEO, and wholesale leads."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
